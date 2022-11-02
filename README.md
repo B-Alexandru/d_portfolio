@@ -1,2 +1,2 @@
 
-# Portfolio website build with Django / vanilla Javascript
+## Portfolio website build using Django and Javascript
